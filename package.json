@@ -1,0 +1,26 @@
+{
+  "name": "gender-height",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~52.0.7",
+    "expo-file-system": "~18.0.3",
+    "expo-image-picker": "~16.0.2",
+    "expo-status-bar": "~2.0.0",
+    "firebase": "^9.6.11",
+    "gender-height": "file:",
+    "react": "18.3.1",
+    "react-native": "0.76.2",
+    "react-native-image-picker": "^7.1.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
